@@ -4085,10 +4085,10 @@ components:
                               examples:
                                 - 2
                         known_move:
-                          type: ""
+                          type: null
                           nullable: true
                         known_move_type:
-                          type: ""
+                          type: null
                           nullable: true
                         location:
                           type: object
